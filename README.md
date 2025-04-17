@@ -1,1 +1,1 @@
-# py-stac
+Exploring SpatioTemporal Asset Catalogs (STAC) in python
